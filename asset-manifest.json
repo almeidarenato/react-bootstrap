@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-bootstrap/static/js/main.c4ae3617.chunk.js",
+    "main.js.map": "/react-bootstrap/static/js/main.c4ae3617.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap/static/js/runtime-main.c4b5c88e.js",
+    "runtime-main.js.map": "/react-bootstrap/static/js/runtime-main.c4b5c88e.js.map",
+    "static/js/2.dbd5b2b9.chunk.js": "/react-bootstrap/static/js/2.dbd5b2b9.chunk.js",
+    "static/js/2.dbd5b2b9.chunk.js.map": "/react-bootstrap/static/js/2.dbd5b2b9.chunk.js.map",
+    "index.html": "/react-bootstrap/index.html",
+    "precache-manifest.e03f76706f70d6646a5d891e57f8085c.js": "/react-bootstrap/precache-manifest.e03f76706f70d6646a5d891e57f8085c.js",
+    "service-worker.js": "/react-bootstrap/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/react-bootstrap/static/css/main.34de6062.chunk.css.map",
+    "static/media/boatImage.jpg": "/react-bootstrap/static/media/boatImage.d61546cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4b5c88e.js",
+    "static/js/2.dbd5b2b9.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.c4ae3617.chunk.js"
+  ]
+}
