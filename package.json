@@ -2,7 +2,7 @@
   "name": "react-boostrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://almeidarenato.github.io/react-bootstrap",
+  "homepage": "https://almeidarenato.github.io/react-bootstrap/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
